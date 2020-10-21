@@ -1,0 +1,152 @@
+.wrapper{border: none;
+font-size:  20px;
+line-height: 1.5;
+
+}
+
+body{border: none;
+    margin: 0px;
+font-family:"Raleway", Arial, sans-serif;
+line-height: 1.5;
+font-weight: normal;
+
+}
+
+.header{border: none;
+    height:60px;
+    padding: 12px 24px;
+    line-height: 1.5;
+    display: block;
+}
+.btn1{
+    float: left;
+    
+}
+.btn2{
+    float: right;
+}
+a:hover{
+    background-color: rgba(189, 184, 184, 0.74);
+color: black;
+}
+a{text-decoration: none;
+color: black;
+background-color: white;
+padding: 8px 28px;
+border: none;
+display: inline-block;
+text-align: center;
+cursor: pointer;}
+
+
+.containner{
+    height: 1342px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+img{border-image: none;
+    width: 100%;
+    margin-bottom: -8px;
+  
+}
+
+.left{border: none;
+    width:49.5%;
+    float: left;
+    height: 1342px;
+
+}
+.right{
+    border: none;
+    width:50.5%;
+    float: right;
+    height: 1342px;
+}
+.para{text-align: center;
+    background-color: whitesmoke;
+    padding: 45px ;
+}
+
+h1{
+font-size: 30px;
+font-weight: 400;
+margin: 10px 0;
+bottom: 5px;
+}
+.image1{
+    padding: 38px 0;
+    width:300px;
+    height: 360;
+    margin: auto;
+}
+p{
+    padding: 19px 0;
+    font-size: 16px;
+    font-weight: 10;
+}
+p1{color: #e91e63!important;
+    font-size:18px;
+}
+.box{
+    margin: 10px 0;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+   
+ 
+}
+input {border: 1px solid #ccc;
+    padding: 10px 8px;
+    /* display: block; */
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    margin: auto;
+
+
+
+}
+button{padding: 14px 8px;
+text-align: center;   
+width: 60%;
+background-color: #616161;
+cursor: pointer;
+border: none;
+color: white;
+margin: 18px;
+
+}
+button:hover{
+
+background-color: rgba(189, 184, 184, 0.74);
+color: #616161;
+}
+
+p3{
+font-size: 15px;
+padding: 24px;
+margin: 12px 0;
+color: black;
+
+}
+
+i{
+color: black;
+background-color: whitesmoke ;
+text-align: center;
+text-decoration: underline;
+}
+i:hover {
+    color: green;
+}
+
+
+
+.footer{height:150px ;
+    background-color: whitesmoke;
+    text-align: center;
+    
+}
